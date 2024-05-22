@@ -1,6 +1,6 @@
 <h1>Hi there! 👋</a></h1>
 
-💼 I am currently working as a Clinical Research Coordinator at the [Computationally-Enhanced Health Care Lab](https://www.med.upenn.edu/kbjohnsonlab/)
+💼 I am currently working as a Clinical Research Coordinator at the [Artificial Intelligence For Ambulatory Care Innovation (AI-4-AI) Lab](https://www.med.upenn.edu/kbjohnsonlab/)
  at the Perelman School of Medicine at the University of Pennsylvania.
 
 ## Skill Set
