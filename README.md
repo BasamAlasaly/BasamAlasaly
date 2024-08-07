@@ -1,36 +1,61 @@
-<h1>Hi there! 👋</a></h1>
+<h1>Hi there! 👋</h1>
 
-💼 I am currently working as a Clinical Research Coordinator at the [Artificial Intelligence For Ambulatory Care Innovation (AI-4-AI) Lab](https://www.med.upenn.edu/kbjohnsonlab/)
- at the Perelman School of Medicine at the University of Pennsylvania.
+💼 I am currently working as a Research Coordinator at the [Artificial Intelligence For Ambulatory Care Innovation (AI-4-AI) Lab](https://www.med.upenn.edu/kbjohnsonlab/)
+at the Perelman School of Medicine at the University of Pennsylvania.
 
 ## Skill Set
 
 ### Programming Languages
 
-| <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /> | <img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" /> | <img title="R" alt="R" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/r/r.png" /> | <img title="SAS" alt="SAS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sas/sas.png" /> | <img title="Swift" alt="Swift" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/swift/swift.png" /> | <img title="SwiftUI" alt="SwiftUI" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/swiftui/swiftui.png" /> | <img title="HTML" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" /> | <img title="CSS" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" /> |
-|---|---|---|---|---|---|---|---|
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-0066FF?logo=sas&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-6C6C6C?logo=swift&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 ### Libraries and Frameworks
 
-|<img title="Pandas" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" alt="Pandas">|
-|---|
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 
 ### Cloud
 
-|<img title="Firebase" alt="Firebase" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png">|<img title="Vercel" alt="Vercel" width="60px" src="https://logovtor.com/wp-content/uploads/2020/10/vercel-inc-logo-vector.png">|
-|---|---|
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&labelColor=F5820D&color=6C6C6C)
+![Vercel](https://img.shields.io/badge/Vercel-6C6C6C?logo=vercel&logoColor=white)
 
 ### Databases
 
-|<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"> 
-|---|
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+
+### Microsoft Suite Tools
+
+
+![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?logo=libreofficewriter&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=libreofficecalc&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?logo=libreofficeimpress&logoColor=white)
+![Microsoft Access](https://img.shields.io/badge/Microsoft%20Access-A4373A?logo=libreofficebase&logoColor=white)
+
+### Video and Photo Editing Tools
+
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-18152E?logo=adobe-photoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-330D3E?logo=adobe-premiere-pro&logoColor=white)
+![iMovie](https://img.shields.io/badge/iMovie-584798?logo=apple&logoColor=white)
+![Final Cut Pro](https://img.shields.io/badge/Final%20Cut%20Pro-6C6C6C?logo=apple&logoColor=white)
 
 ### OS and Tools
 
-|<img title="Fedora" width="40px" alt="Fedora" src="https://raw.githubusercontent.com/github/explore/master/topics/fedora/fedora.png">|<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="Xcode" alt="Xcode" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/xcode/xcode.png">|<img title="Visual Studio Code" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png">|<img title="Jupyter Lab" alt="Jupyter Lab" width="40px" src="https://miro.medium.com/max/1036/1*FogMIj4gYwp3fTHLZuwavQ.png">|
-|---|---|---|---|---|
+![macOS](https://img.shields.io/badge/macOS-6C6C6C?logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALYAAAC2CAMAAABDLoc2AAAAAXNSR0IB2cksfwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAFRQTFRF81Yp81Un84ho8/PzsNNngr0Ig70J81Ml84dnr9JlgbwGgbwH86mUxdyTps5SZsXxZcXxktTy99+f+tFnB6fwBabwUb/x/7oI/7oJCKfwBqbw/7sJ6p7/GAAAAYVJREFUeJzt1aFOA2EUhNH9aanAgMD0/Z8PU4MAgdkQhozs3aTJGXXVl+Pu2tY2sLX+H3fOr8tI92s/Lth/8tjRxW557Ohitzx2dLFbHju62C2PHV3slseOLnbLY0cXu+Wxo4vd8tjRxW557Ohitzx2dLFbHju62C2PHV3slseOLnbLY0cXu+Wxo4vd8tjRxW557Ohitzx2dLFbHju62C2PHV3slseOLnbLY0cXu+Wxo4vd8tjRxW557Ohitzx2dLFbHju60+ynEfb5cz9eRtjbOo1kp4d95LCPHPaRe1T268wbu+3HTH5b7zPsj/14O4/ksaOL3fLY0cVueezoYrc8dnSxWx47utgtjx1d7JbHji52y2NHF7vlsaOL3fLY0cVueezoYrc8dnSxWx47utgtjx1d7JbHji52y2NHF7vlsaOL3fLY0cVueezoYrc8dnSxWx47utgtjx1d7JbHji52y2NHF7vlsaOL3fLY0cVueezoYrc8dnSxW35dR9jfv+znifzpB1RFurB8MVWCAAAAAElFTkSuQmCC)
+![Fedora](https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?logo=xcode&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 
 ## Let's Connect! 🤝
 
-|<a href="https://www.linkedin.com/in/basamalasaly/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40" title="LinkedIn" alt = "LinkedIn"></a>|<a href="https://www.researchgate.net/profile/Basam-Alasaly"><img src="https://cdn3.iconfinder.com/data/icons/font-awesome-brands/512/researchgate-128.png" width="40" title="ResearchGate" alt = "ResearchGate"></a>|<a href="mailto:contact@basamalasaly.com"><img src="https://cdn4.iconfinder.com/data/icons/music-ui-solid-24px/24/mail_email_inbox_message-2-128.png" width="40" title="Email" alt = "Email"></a>|
-|---|---|---|
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basamalasaly/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Basam-Alasaly)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@basamalasaly.com)
