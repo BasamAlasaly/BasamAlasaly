@@ -2,7 +2,7 @@
 
 💼 I am currently a medical student at Sidney Kimmel Medical College, Class of 2029, where I am continuing to integrate my interests in clinical medicine and artificial intelligence. Alongside my medical training, I work as a Digital Health Tech Specialist at the [Artificial Intelligence For Ambulatory Care Innovation (AI-4-AI) Lab](https://www.med.upenn.edu/kbjohnsonlab/) at the Perelman School of Medicine at the University of Pennsylvania, focusing on clinical AI applications.
 
-I am also involved in clinical research within the Department of Dermatology at Thomas Jefferson University, exploring the application of AI in ambulatory care settings. In addition, I serve as a Research Assistant in the Department of Radiation Oncology at the Sidney Kimmel Comprehensive Cancer Center, contributing to research focused on treatment planning and pain minimization in breast cancer care through the BreastVBA project.
+I am also involved in clinical research within the [Department of Dermatology](https://www.jefferson.edu/academics/colleges-schools-institutes/skmc/departments/dermatology.html) at Thomas Jefferson University, exploring the application of AI in ambulatory care settings. In addition, I serve as a Research Assistant in the [Department of Radiation Oncology](https://www.jefferson.edu/academics/colleges-schools-institutes/skmc/departments/radiation-oncology.html) at the Sidney Kimmel Comprehensive Cancer Center, contributing to research focused on treatment planning and pain minimization in breast cancer care through the BreastVBA project.
 
 ## Skill Set
 
