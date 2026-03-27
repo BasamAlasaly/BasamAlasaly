@@ -24,6 +24,7 @@ I am also involved in clinical research within the [Department of Dermatology](h
 ### Cloud
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&labelColor=F5820D&color=6C6C6C)
+![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-6C6C6C?logo=vercel&logoColor=white)
 
 ### Databases
